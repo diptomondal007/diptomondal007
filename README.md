@@ -51,21 +51,21 @@ dipto := `{
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 177 Contributions in year 2020
+> 🏆 177 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 43 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
 🌞 Morning    42 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
@@ -74,7 +74,7 @@ dipto := `{
 🌙 Night      37 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.13%
 
 ```
-📅 **I'm Most Productive on Wednesdays** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
@@ -88,19 +88,19 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Dhaka
+⌚︎ Time zone: Asia/Dhaka
 
-💬 Languages: 
+💬 Programming Languages: 
 Go                       4 hrs 20 mins       ████████████████░░░░░░░░░   65.69% 
 YAML                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.11% 
 Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
 Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
 JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
-🔥 Editors: 
+🔥 Code Editors: 
 GoLand                   3 hrs 48 mins       ██████████████░░░░░░░░░░░   57.49% 
 VS Code                  2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   42.51%
 
@@ -111,12 +111,12 @@ openstockapi             32 mins             ██░░░░░░░░░�
 Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88% 
 kuego                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      6 hrs 37 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in Go** 
+**I Mostly Code in Go** 
 
 ```text
 Go                       9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
