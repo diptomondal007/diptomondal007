@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2>Hello, I'm Dipto Mondal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
 <p><em>Software Engineer Intern at <a href="https://pathao.com/?lang=en">Pathao Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/diptomondal007?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/diptomondal007)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="http://www.pngall.com/wp-content/uploads/2/Dance-PNG.png" width="50"> A little more about me...  
 
 ```go
 dipto := `{
