@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>Hello, I'm Dipto Mondal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
-<p><em>Software Engineer Intern at <a href="https://pathao.com/?lang=en">Pathao Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer I at <a href="https://pathao.com/?lang=en">Pathao Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Dipto_Mondal007?label=Follow)
@@ -124,8 +124,6 @@ GoLand                   9 hrs 17 mins       ███████████�
 VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.6%
 
 🐱‍💻 Projects: 
-collateral               4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   46.76% 
-judy                     2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.93% 
 historical_data          1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
 practice                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
 websocket                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
