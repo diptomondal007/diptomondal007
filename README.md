@@ -114,16 +114,16 @@ Sunday       20 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Timezone: Asia/Dhaka
 
 💬 Languages: 
-Go                       10 mins             █████████████████████████   100.0%
+No Activity tracked this Week
 
 🔥 Editors: 
-GoLand                   10 mins             █████████████████████████   100.0%
+No Activity tracked this Week
 
 🐱‍💻 Projects: 
-historical_data          10 mins             █████████████████████████   100.0%
+No Activity tracked this Week
 
 💻 Operating Systems: 
-Mac                      10 mins             █████████████████████████   100.0%
+No Activity tracked this Week
 
 ```
 
