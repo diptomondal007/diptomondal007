@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Dipto Mondal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<p><em>Software Engineer I at <a href="https://pathao.com/?lang=en">Pathao Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 <!--
 **diptomondal007/diptomondal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://github-profile-trophy.vercel.app/?username=diptomondal007)
 
-<h2>Hello, I'm Dipto Mondal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230">
-<p><em>Software Engineer I at <a href="https://pathao.com/?lang=en">Pathao Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+### Connect with me:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Dipto_Mondal007?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-dipto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipto-mondal-807003181/)](https://www.linkedin.com/in/dipto-mondal-807003181/)
-![GitHub followers](https://img.shields.io/github/followers/diptomondal007?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/diptomondal007)
+<p align="left">
+<a href="https://twitter.com/Dipto_Mondal007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipto-mondal-807003181" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dipto-mondal-807003181" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="chrisbanes" height="30" width="40" /></a>
+<a href="https://medium.com/chrisbanes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="chrisbanes" height="30" width="40" /></a> -->
+</p>
+<!-- <img align='right' src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="230"> -->
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2/Dance-PNG.png" width="50"> A little more about me...  
 
