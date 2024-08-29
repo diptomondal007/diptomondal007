@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://dev.to/diptomondal007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="diptomondal007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dipto-mondal-807003181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipto-mondal-807003181" height="30" width="40" /></a>
-<a href="https://medium.com/@diptomondal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diptomondal007" height="30" width="40" /></a>
+<a href="https://medium.com/@diptomondal007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@diptos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
